@@ -3,5 +3,4 @@ scikit-learn
 spacy
 numpy
 pickle4
-string
 heapsq
